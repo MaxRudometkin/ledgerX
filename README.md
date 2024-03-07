@@ -1,7 +1,6 @@
 Free Currency Exchange Rates API
 
-![Screen Shot 2024-03-07 at 1.04.00 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fgd%2F9b06vg2d2bjd7gzx_pm9kf2h0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_wHfQoK%2FScreen%20Shot%202024-03-07%20at%201.04.00%20PM.png)
-
+![](/Users/admin/Desktop/Screen Shot 2024-03-07 at 2.16.35 PM.png)
 
 Features:
 
