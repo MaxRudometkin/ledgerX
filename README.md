@@ -1,7 +1,5 @@
 Free Currency Exchange Rates API
 
-![](/Users/admin/Desktop/Screen Shot 2024-03-07 at 2.16.35 PM.png)
-
 Features:
 
 Free & Blazing Fast response,
